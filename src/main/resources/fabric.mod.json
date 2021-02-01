@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "enderores",
+  "version": "${version}",
+
+  "name": "Ender Ores",
+  "description": "This mod adds vanilla ores in the end dimension!",
+  "authors": [
+    "Alex Balsillie"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "gpl-3.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.alexbalsillie.enderores.Enderores"
+    ]
+  },
+  "mixins": [
+    ""
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
