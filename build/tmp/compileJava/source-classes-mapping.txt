@@ -1,0 +1,6 @@
+com/alexbalsillie/enderores/registry/ModBlocks.java
+ com.alexbalsillie.enderores.registry.ModBlocks
+com/alexbalsillie/enderores/registry/ModItems.java
+ com.alexbalsillie.enderores.registry.ModItems
+com/alexbalsillie/enderores/Enderores.java
+ com.alexbalsillie.enderores.Enderores
